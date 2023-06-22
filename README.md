@@ -1,4 +1,4 @@
-<h1>Hi, I'm KJ <br/><a href="https://github.com/kyereafrane">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/afrane-k-mensah-22011792/">Tech Savvy</a>
+<h1>Hi, I'm KJ Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/afrane-k-mensah-22011792/">Tech Savvy</a>
 
 - - - - - - - - - -   
 <h2>👨‍💻 About Me </h2>
@@ -12,6 +12,6 @@ I am currently a Cybersecurity Management(MSc) student, building my Cybersecurit
 - Microsoft Certified: Azure Fundamentals (AZ-900)
   
 <h2>👨‍💻 My Practice Projects </h2>
-- <b>Data Analytics and Visualization </b>
+- <br/><a href="[https://github.com/kyereafrane](https://github.com/kyereafrane/Data_Analytics_Visualisation)https://github.com/kyereafrane/Data_Analytics_Visualisation"><b>Data Analytics and Visualization </b>
 
 
