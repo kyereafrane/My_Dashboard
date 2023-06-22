@@ -8,7 +8,8 @@ I am currently a Cybersecurity Management(MSc) student, building my Cybersecurit
   
 - CompTIA Network+ (ce) 
 - CompTIA Security+ (ce) 
-- (ISC)² Certified in Cybersecurity (CC) 
+- (ISC)² Certified in Cybersecurity (CC)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
   
 <h2>👨‍💻 My Practice Projects </h2>
 - <b>Data Analytics and Visualization </b>
